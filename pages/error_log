@@ -1,0 +1,892 @@
+[30-Jul-2021 06:45:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[30-Jul-2021 06:45:55 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[30-Jul-2021 06:45:55 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[30-Jul-2021 06:46:24 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[30-Jul-2021 06:46:24 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[30-Jul-2021 06:48:53 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[30-Jul-2021 06:48:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[30-Jul-2021 06:49:54 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[30-Jul-2021 06:49:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[30-Jul-2021 06:50:03 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[30-Jul-2021 06:50:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[30-Jul-2021 06:50:57 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[30-Jul-2021 06:50:57 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[30-Jul-2021 06:50:57 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[30-Jul-2021 06:51:09 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[30-Jul-2021 06:51:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[30-Jul-2021 06:53:22 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[30-Jul-2021 06:53:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[31-Jul-2021 09:48:02 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[31-Jul-2021 09:48:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[31-Jul-2021 09:51:09 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[31-Jul-2021 09:51:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[31-Jul-2021 09:53:45 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[31-Jul-2021 09:53:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[31-Jul-2021 09:56:28 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[31-Jul-2021 09:56:28 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[31-Jul-2021 09:56:28 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[31-Jul-2021 10:29:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[31-Jul-2021 10:29:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[31-Jul-2021 10:29:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[02-Aug-2021 08:48:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[02-Aug-2021 08:48:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[02-Aug-2021 08:48:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[02-Aug-2021 08:48:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[02-Aug-2021 08:48:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[02-Aug-2021 08:48:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[03-Aug-2021 02:01:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[04-Aug-2021 01:18:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:18:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:18:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:19:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:19:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:19:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:19:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:19:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:19:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:20:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:20:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:20:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:20:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:20:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:20:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:20:57 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 01:20:57 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 01:20:57 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:20:57 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:22:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:22:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:22:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:22:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:22:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:22:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:23:21 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 01:23:21 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 01:23:21 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:23:21 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:23:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:23:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:23:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:24:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:24:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:24:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:25:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:25:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:25:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:25:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:25:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:25:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:27:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:27:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:27:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:29:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:29:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:29:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:29:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 01:29:24 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 01:29:24 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:29:24 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:30:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:30:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:30:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:31:20 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 01:31:20 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 01:31:20 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:31:20 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:33:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:33:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:33:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:34:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:34:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:34:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:35:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:35:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:35:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:37:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:37:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:37:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:38:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 01:38:47 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 01:38:47 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:38:47 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 01:47:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:47:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:47:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:50:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-fetch.php on line 41
+[04-Aug-2021 01:50:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-fetch.php on line 41
+[04-Aug-2021 01:52:47 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:52:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:54:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 7
+[04-Aug-2021 01:54:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/pdf.php on line 8
+[04-Aug-2021 01:54:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[04-Aug-2021 01:55:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 01:55:51 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 01:57:03 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 01:57:03 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 02:01:25 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 02:01:26 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 02:16:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 02:16:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 02:17:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 02:17:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 02:29:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 02:29:08 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 05:31:56 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[04-Aug-2021 05:31:56 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 05:33:03 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[04-Aug-2021 05:33:03 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Aug-2021 05:57:27 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[04-Aug-2021 05:57:27 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[04-Aug-2021 13:57:27 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[04-Aug-2021 13:57:27 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[05-Aug-2021 00:36:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[05-Aug-2021 00:41:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Aug-2021 00:41:53 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[05-Aug-2021 00:43:00 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Aug-2021 00:43:00 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[05-Aug-2021 00:43:00 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[05-Aug-2021 01:00:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[05-Aug-2021 01:03:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Aug-2021 01:03:40 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[05-Aug-2021 01:04:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[05-Aug-2021 01:05:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[05-Aug-2021 01:05:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[05-Aug-2021 01:09:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[05-Aug-2021 01:09:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/pdf.php on line 9
+[05-Aug-2021 01:10:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[05-Aug-2021 01:11:00 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Aug-2021 01:11:00 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[05-Aug-2021 01:14:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Aug-2021 01:14:07 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[05-Aug-2021 01:15:59 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Aug-2021 01:15:59 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[05-Aug-2021 01:15:59 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[05-Aug-2021 01:24:27 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Aug-2021 01:24:27 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Aug-2021 05:48:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[07-Aug-2021 05:48:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[07-Aug-2021 05:48:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[07-Aug-2021 05:48:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[09-Aug-2021 05:36:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Aug-2021 05:36:26 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Aug-2021 07:19:30 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Aug-2021 07:19:30 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Aug-2021 07:24:27 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Aug-2021 07:24:27 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Aug-2021 07:24:27 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[09-Aug-2021 07:24:27 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[09-Aug-2021 07:40:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Aug-2021 07:40:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Aug-2021 08:39:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Aug-2021 08:39:24 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Aug-2021 02:00:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Aug-2021 02:00:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Aug-2021 02:09:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[10-Aug-2021 02:09:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[10-Aug-2021 02:45:20 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Aug-2021 02:45:21 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Aug-2021 02:50:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Aug-2021 02:50:02 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Aug-2021 02:50:02 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Aug-2021 02:50:02 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Aug-2021 07:45:27 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Aug-2021 07:45:27 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Aug-2021 07:45:59 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Aug-2021 07:45:59 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Aug-2021 07:45:59 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Aug-2021 07:46:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[10-Aug-2021 07:46:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[11-Aug-2021 02:38:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[11-Aug-2021 02:38:51 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[11-Aug-2021 02:39:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[11-Aug-2021 02:39:44 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[11-Aug-2021 02:39:44 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[11-Aug-2021 05:10:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[11-Aug-2021 05:10:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[11-Aug-2021 13:10:59 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[11-Aug-2021 13:10:59 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[13-Aug-2021 16:10:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[16-Aug-2021 02:07:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[16-Aug-2021 02:07:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[17-Aug-2021 02:08:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[17-Aug-2021 02:08:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[17-Aug-2021 10:08:02 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[17-Aug-2021 10:08:02 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[18-Aug-2021 05:10:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[18-Aug-2021 05:10:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[18-Aug-2021 13:10:28 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[18-Aug-2021 13:10:28 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[18-Aug-2021 05:21:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[18-Aug-2021 05:21:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[18-Aug-2021 13:21:42 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[18-Aug-2021 13:21:42 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[19-Aug-2021 01:45:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[19-Aug-2021 01:45:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[19-Aug-2021 01:45:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[19-Aug-2021 01:45:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[19-Aug-2021 01:45:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[19-Aug-2021 15:06:17 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[19-Aug-2021 15:06:17 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[19-Aug-2021 15:11:31 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[19-Aug-2021 15:11:31 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[23-Aug-2021 07:28:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Aug-2021 07:29:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Aug-2021 07:29:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[30-Aug-2021 04:30:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[01-Sep-2021 00:53:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[01-Sep-2021 00:53:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[01-Sep-2021 08:53:08 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[01-Sep-2021 08:53:08 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[03-Sep-2021 05:54:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[03-Sep-2021 05:54:23 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[03-Sep-2021 05:57:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[03-Sep-2021 05:57:44 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[03-Sep-2021 05:57:44 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[03-Sep-2021 06:06:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[03-Sep-2021 06:06:58 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[03-Sep-2021 06:06:58 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[03-Sep-2021 08:02:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[03-Sep-2021 23:08:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Sep-2021 08:42:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[04-Sep-2021 08:42:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[05-Sep-2021 23:58:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[13-Sep-2021 01:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[13-Sep-2021 01:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[13-Sep-2021 06:04:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[13-Sep-2021 12:48:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[14-Sep-2021 05:28:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[14-Sep-2021 05:28:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[14-Sep-2021 13:28:28 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[14-Sep-2021 13:28:28 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[15-Sep-2021 05:48:12 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Sep-2021 05:48:12 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 05:50:06 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Sep-2021 05:50:06 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 05:50:06 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[15-Sep-2021 06:05:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Sep-2021 06:05:11 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 06:05:39 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 06:05:39 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[15-Sep-2021 06:11:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Sep-2021 06:11:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 06:11:37 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Sep-2021 06:11:37 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 06:11:37 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[15-Sep-2021 06:17:36 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Sep-2021 06:17:36 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 06:18:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Sep-2021 06:18:24 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Sep-2021 06:18:24 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[16-Sep-2021 05:44:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[17-Sep-2021 02:56:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[17-Sep-2021 02:56:50 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[17-Sep-2021 02:57:33 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[17-Sep-2021 02:57:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[17-Sep-2021 02:57:33 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[21-Sep-2021 08:18:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[21-Sep-2021 08:18:46 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[21-Sep-2021 08:18:48 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[21-Sep-2021 08:19:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[21-Sep-2021 08:19:01 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[21-Sep-2021 08:19:02 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[21-Sep-2021 08:19:02 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[22-Sep-2021 05:42:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[22-Sep-2021 05:42:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[22-Sep-2021 05:43:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[22-Sep-2021 05:43:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-fetch.php on line 41
+[22-Sep-2021 05:43:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-fetch.php on line 41
+[22-Sep-2021 05:43:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-fetch.php on line 41
+[22-Sep-2021 05:43:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[22-Sep-2021 08:19:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[22-Sep-2021 08:19:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[23-Sep-2021 07:08:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:09:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:09:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:11:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:11:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:12:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:49:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:54:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:58:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 07:58:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[23-Sep-2021 08:13:40 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[23-Sep-2021 08:13:40 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[23-Sep-2021 08:13:40 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[24-Sep-2021 05:37:59 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[24-Sep-2021 05:37:59 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[27-Sep-2021 03:20:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[27-Sep-2021 11:20:02 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[27-Sep-2021 07:09:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[27-Sep-2021 07:09:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[27-Sep-2021 23:45:30 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[27-Sep-2021 23:45:30 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[27-Sep-2021 23:45:53 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[27-Sep-2021 23:45:53 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[27-Sep-2021 23:51:11 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[27-Sep-2021 23:51:12 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Sep-2021 01:45:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[29-Sep-2021 01:46:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[30-Sep-2021 01:29:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[30-Sep-2021 01:29:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[04-Oct-2021 11:24:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[04-Oct-2021 11:24:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[05-Oct-2021 00:26:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[05-Oct-2021 00:26:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[05-Oct-2021 00:26:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[05-Oct-2021 00:45:21 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[05-Oct-2021 00:45:21 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[05-Oct-2021 00:45:21 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[05-Oct-2021 07:51:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[05-Oct-2021 07:51:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[06-Oct-2021 05:37:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 05:37:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 05:37:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 05:45:37 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 05:45:37 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 05:47:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 05:47:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 05:47:01 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 05:56:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 05:56:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 05:57:07 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 05:57:07 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 06:04:16 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 06:04:16 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 06:05:29 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 06:05:29 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 06:14:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 06:14:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 06:15:32 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 06:15:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 06:15:33 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 06:15:33 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 06:23:21 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 06:23:21 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 06:24:17 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 06:24:17 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 06:24:17 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 06:24:17 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 06:43:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:12:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[06-Oct-2021 07:12:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[06-Oct-2021 07:12:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[06-Oct-2021 07:16:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dash-approved-pfo-view.php on line 23
+[06-Oct-2021 07:17:33 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[06-Oct-2021 07:17:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[06-Oct-2021 07:17:33 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 07:17:33 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[06-Oct-2021 07:18:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:20:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:23:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:23:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:23:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:23:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:24:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[06-Oct-2021 07:26:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[06-Oct-2021 08:10:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[06-Oct-2021 08:10:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[06-Oct-2021 08:16:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[06-Oct-2021 08:16:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[06-Oct-2021 08:24:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[06-Oct-2021 08:24:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[07-Oct-2021 01:00:17 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:00:17 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:02:16 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:02:16 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:02:16 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 01:10:03 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:10:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:11:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:11:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:11:04 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 01:11:04 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 01:19:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:19:51 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:20:43 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:20:44 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:20:44 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 01:29:33 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:29:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:31:11 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:31:11 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:31:11 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 01:37:08 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:37:08 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:38:09 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:38:09 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:38:09 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 01:43:56 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:43:56 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:45:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:45:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:45:49 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 01:55:20 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:55:20 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:56:23 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 01:56:23 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 01:56:23 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 10:18:55 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[07-Oct-2021 02:24:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[07-Oct-2021 02:24:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[07-Oct-2021 02:28:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:28:54 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:28:54 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 02:30:11 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:30:11 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:33:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:33:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:35:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:35:02 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:35:02 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 02:37:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:37:54 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:37:54 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 02:41:57 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:41:58 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:43:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:43:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:43:04 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 02:48:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:48:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:49:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:49:53 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:49:53 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 02:55:38 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:55:38 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:56:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 02:56:47 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 02:56:47 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 03:03:17 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 03:03:17 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 03:04:41 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 03:04:41 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 03:04:41 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 03:11:29 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 03:11:29 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 03:12:45 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 03:12:45 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 03:12:45 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 03:12:45 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 03:18:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 03:18:59 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 03:19:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Oct-2021 03:19:58 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Oct-2021 03:19:58 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Oct-2021 03:26:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[07-Oct-2021 03:26:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[07-Oct-2021 11:26:24 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[07-Oct-2021 11:32:53 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[07-Oct-2021 11:45:16 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[07-Oct-2021 06:44:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:45:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:45:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:45:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:46:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:46:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:46:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:48:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:48:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:49:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:49:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:50:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:51:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:51:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:53:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:54:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:54:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:55:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:56:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:56:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[07-Oct-2021 06:56:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/d0l310/1020.dole10.net/pages/dashboard-pfo-view.php on line 19
+[08-Oct-2021 11:32:42 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[08-Oct-2021 07:03:32 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[08-Oct-2021 07:03:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[08-Oct-2021 07:05:19 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[08-Oct-2021 07:05:19 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[08-Oct-2021 07:05:19 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[12-Oct-2021 01:36:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[12-Oct-2021 01:46:40 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[12-Oct-2021 01:46:40 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[12-Oct-2021 01:48:42 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[12-Oct-2021 01:48:42 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[12-Oct-2021 01:48:42 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[12-Oct-2021 01:56:36 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[12-Oct-2021 01:56:36 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[12-Oct-2021 01:57:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[12-Oct-2021 01:57:58 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[12-Oct-2021 01:57:58 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[12-Oct-2021 02:05:34 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[12-Oct-2021 02:05:34 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[12-Oct-2021 02:11:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[12-Oct-2021 02:11:54 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[12-Oct-2021 02:11:54 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Oct-2021 09:05:43 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:05:43 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:06:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:06:01 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Oct-2021 09:18:16 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:18:17 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:18:17 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Oct-2021 09:22:19 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:22:19 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:22:19 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Oct-2021 09:25:35 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:25:35 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:25:35 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Oct-2021 09:29:35 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:29:35 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:29:35 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Oct-2021 09:32:56 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:32:56 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:32:56 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Oct-2021 09:35:27 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:35:27 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Oct-2021 09:35:27 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Oct-2021 04:42:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Oct-2021 04:42:02 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Oct-2021 04:42:02 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[15-Oct-2021 09:03:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[20-Oct-2021 03:29:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[20-Oct-2021 08:09:06 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[20-Oct-2021 08:09:06 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[20-Oct-2021 08:09:58 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[20-Oct-2021 08:10:16 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[20-Oct-2021 08:10:16 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[21-Oct-2021 06:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[21-Oct-2021 06:02:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[22-Oct-2021 02:23:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[22-Oct-2021 02:23:24 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[22-Oct-2021 02:25:19 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[22-Oct-2021 02:25:19 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[22-Oct-2021 02:25:19 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[23-Oct-2021 09:51:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[26-Oct-2021 05:43:28 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Oct-2021 05:43:29 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Oct-2021 05:43:29 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[26-Oct-2021 05:44:33 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Oct-2021 05:44:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Oct-2021 03:02:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[29-Oct-2021 03:02:48 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Oct-2021 03:05:56 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[29-Oct-2021 03:05:57 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Oct-2021 03:05:57 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[29-Oct-2021 03:15:14 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[29-Oct-2021 03:15:14 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Oct-2021 03:17:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[29-Oct-2021 03:17:02 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Oct-2021 03:17:02 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[02-Nov-2021 00:27:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[02-Nov-2021 00:27:50 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[02-Nov-2021 00:28:03 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[02-Nov-2021 00:28:03 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[04-Nov-2021 01:24:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[04-Nov-2021 01:24:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[04-Nov-2021 10:29:58 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[04-Nov-2021 10:29:58 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 150
+[08-Nov-2021 03:41:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[08-Nov-2021 03:41:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[08-Nov-2021 03:44:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[08-Nov-2021 03:44:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[08-Nov-2021 03:44:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[08-Nov-2021 03:44:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[08-Nov-2021 03:44:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[08-Nov-2021 03:55:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[08-Nov-2021 03:55:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[08-Nov-2021 04:04:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[08-Nov-2021 04:04:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[08-Nov-2021 05:35:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[08-Nov-2021 05:35:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[08-Nov-2021 08:01:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[08-Nov-2021 08:01:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[08-Nov-2021 08:41:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[08-Nov-2021 10:03:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[09-Nov-2021 01:26:32 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Nov-2021 01:26:32 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Nov-2021 01:28:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Nov-2021 01:28:24 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Nov-2021 01:28:24 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[09-Nov-2021 01:33:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Nov-2021 01:33:07 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Nov-2021 01:51:24 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Nov-2021 01:51:24 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Nov-2021 01:51:56 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Nov-2021 01:51:56 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[09-Nov-2021 09:59:11 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[09-Nov-2021 07:20:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[09-Nov-2021 07:20:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[09-Nov-2021 07:20:01 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Nov-2021 01:02:57 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Nov-2021 01:02:58 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Nov-2021 01:05:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Nov-2021 01:05:54 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Nov-2021 01:05:54 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Nov-2021 01:12:06 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Nov-2021 01:12:06 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Nov-2021 01:13:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Nov-2021 01:13:10 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Nov-2021 01:13:10 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Nov-2021 01:19:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Nov-2021 01:19:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Nov-2021 01:19:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[10-Nov-2021 01:19:47 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[10-Nov-2021 01:19:47 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[10-Nov-2021 09:27:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[11-Nov-2021 03:36:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[11-Nov-2021 03:50:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[23-Nov-2021 09:39:05 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[23-Nov-2021 10:13:54 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[23-Nov-2021 14:37:39 Asia/Manila] PHP Warning:  mysqli_query(): Empty query in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 140
+[23-Nov-2021 06:55:00 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 6
+[23-Nov-2021 07:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:05:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/d0l310/1020.dole10.net/pages/registerclient_input.php:3
+Stack trace:
+#0 /home/d0l310/1020.dole10.net/pages/registerclient.php(6): require()
+#1 {main}
+  thrown in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 3
+[23-Nov-2021 07:49:38 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[23-Nov-2021 07:49:38 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[23-Nov-2021 07:49:38 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[24-Nov-2021 00:25:06 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[24-Nov-2021 00:25:06 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[24-Nov-2021 00:29:10 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[24-Nov-2021 00:29:10 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[24-Nov-2021 00:29:10 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[24-Nov-2021 03:58:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[24-Nov-2021 03:58:26 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[24-Nov-2021 03:58:26 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[24-Nov-2021 03:58:42 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[24-Nov-2021 03:58:42 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[24-Nov-2021 04:00:32 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[24-Nov-2021 04:00:32 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[24-Nov-2021 05:41:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[24-Nov-2021 05:41:26 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[25-Nov-2021 06:38:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[25-Nov-2021 06:38:13 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[25-Nov-2021 06:39:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[25-Nov-2021 06:39:51 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[25-Nov-2021 06:39:51 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[26-Nov-2021 05:33:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[26-Nov-2021 05:56:08 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 05:56:08 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 05:56:34 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 05:56:55 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 05:56:55 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[26-Nov-2021 06:16:45 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 06:16:45 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:16:45 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[26-Nov-2021 06:18:19 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 06:18:19 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:18:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:28:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 06:28:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:28:04 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[26-Nov-2021 06:28:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:34:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 06:34:26 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:34:26 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[26-Nov-2021 06:36:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 06:36:50 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:44:09 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 06:44:09 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[26-Nov-2021 06:44:09 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[26-Nov-2021 06:45:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[26-Nov-2021 06:45:07 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Nov-2021 02:19:06 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[29-Nov-2021 02:19:06 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Nov-2021 02:19:06 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[29-Nov-2021 03:11:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[29-Nov-2021 03:11:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[29-Nov-2021 06:04:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[29-Nov-2021 06:04:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[29-Nov-2021 06:31:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:31:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:32:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 06:32:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/d0l310/1020.dole10.net/pages/viewfetch.php on line 41
+[29-Nov-2021 09:00:21 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[29-Nov-2021 09:00:21 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[29-Nov-2021 09:00:21 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[02-Dec-2021 01:29:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[04-Dec-2021 06:31:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[04-Dec-2021 06:31:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[06-Dec-2021 05:20:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[07-Dec-2021 01:57:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[07-Dec-2021 06:06:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[07-Dec-2021 06:06:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[07-Dec-2021 08:10:59 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Dec-2021 08:10:59 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Dec-2021 08:14:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[07-Dec-2021 08:14:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[07-Dec-2021 08:14:49 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[07-Dec-2021 08:15:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[08-Dec-2021 01:21:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[08-Dec-2021 01:21:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[13-Dec-2021 02:29:27 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Dec-2021 02:29:27 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 02:30:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Dec-2021 02:30:13 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 02:30:13 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Dec-2021 02:45:57 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Dec-2021 02:45:58 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 02:46:27 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 02:46:27 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Dec-2021 04:47:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Dec-2021 04:47:50 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 04:48:32 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Dec-2021 04:48:32 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 04:48:32 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Dec-2021 06:19:31 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[13-Dec-2021 06:19:31 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 06:19:48 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[13-Dec-2021 06:19:48 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[13-Dec-2021 09:09:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[14-Dec-2021 01:20:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 01:20:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 01:20:43 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 01:20:43 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 01:45:08 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 01:45:08 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 01:49:45 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 01:49:45 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 01:49:45 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 01:53:19 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 01:53:19 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 01:53:53 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 01:53:53 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 02:11:12 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 02:11:12 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:11:42 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:11:42 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 02:20:59 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 02:20:59 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:21:23 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:21:23 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 02:27:06 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 02:27:06 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:27:46 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 02:27:46 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:27:46 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 02:33:04 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 02:33:04 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:33:57 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 02:33:57 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:33:57 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 02:38:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 02:38:59 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:39:38 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 02:39:38 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 08:02:55 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 08:02:55 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 08:03:21 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 08:03:21 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 08:09:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[14-Dec-2021 08:09:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 08:09:46 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[14-Dec-2021 08:09:46 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[14-Dec-2021 16:04:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[14-Dec-2021 16:04:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[15-Dec-2021 03:47:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 17778
+[15-Dec-2021 03:47:54 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Dec-2021 03:48:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 16542
+[15-Dec-2021 03:48:22 UTC] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/d0l310/1020.dole10.net/tcpdf/tcpdf.php on line 7033
+[15-Dec-2021 07:27:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[15-Dec-2021 07:27:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[15-Dec-2021 07:59:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[15-Dec-2021 07:59:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[15-Dec-2021 08:05:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[15-Dec-2021 08:05:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[15-Dec-2021 08:10:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[15-Dec-2021 08:10:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[15-Dec-2021 08:13:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[15-Dec-2021 08:13:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[15-Dec-2021 08:16:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[15-Dec-2021 08:16:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53
+[15-Dec-2021 08:20:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 51
+[15-Dec-2021 08:20:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/d0l310/1020.dole10.net/pages/registerclient_input.php on line 53

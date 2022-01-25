@@ -7,7 +7,8 @@ if (isset($_POST['sendApproveBtn'])) {
     $subjectName = $_POST['subjectName'];
     $ein = $_POST["ein"];
     $approvedBy = $_POST["approvedBy"];
-    $connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+    //$connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+    $connect = mysqli_connect("localhost", "root", "", "d0l310_1020db");
     $select_query = "SELECT * FROM `user_details_tbl` JOIN user_app_details ON user_details_tbl.id_diff = user_app_details.id_diff where user_details_tbl.id_diff ='" . $_POST["pud_tin"] . "'";
     $results = mysqli_query($connect, $select_query);
     while ($row = mysqli_fetch_assoc($results)) {
@@ -103,7 +104,8 @@ if (isset($_POST['sendPendingBtn'])) {
     $emailFrom = $_POST['emailFrom'];
     $emailTo = $_POST['emailTo'];
     $subjectName = $_POST['subjectName'];
-    $connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+    //$connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+    $connect = mysqli_connect("localhost", "root", "", "d0l310_1020db");
     $select_query = "SELECT * FROM `user_details_tbl` JOIN user_app_details ON user_details_tbl.ud_tin = user_app_details.ud_tin where user_details_tbl.ud_tin ='" . $_POST["pud_tin"] . "'";
     $results = mysqli_query($connect, $select_query);
     while ($row = mysqli_fetch_assoc($results)

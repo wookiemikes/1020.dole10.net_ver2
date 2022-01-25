@@ -1,6 +1,7 @@
 <?php
 session_start();
-$connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+//$connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+$connect = mysqli_connect("localhost", "root", "", "d0l310_1020db");
 
 $columns = array('ud_id', 'ud_est_name', 'ud_ct', 'ud_st', 'ud_prov', 'uad_date_filed', 'uad_date_approved', 'ua_status');
 

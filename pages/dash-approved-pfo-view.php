@@ -16,7 +16,8 @@ if (isset($_POST['view'])) {
     $tin = $_POST["id"];
 
     //Use if using Live Server
-    $connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+    //$connect = mysqli_connect("localhost", "d0l310_1020db", "d0l310_1020db", "d0l310_1020db");
+    $connect = mysqli_connect("localhost", "root", "", "d0l310_1020db");
     //Use if using Local Server
     //$connect = mysqli_connect("localhost", "root", "", "d0l310_1020db");
     $viewquery = "SELECT * FROM `user_details_tbl` JOIN user_app_details ON user_details_tbl.id_diff = user_app_details.id_diff JOIN user_emp_details_tbl ON user_app_details.id_diff = user_emp_details_tbl.id_diff JOIN user_est_details_tbl ON user_est_details_tbl.id_diff = user_emp_details_tbl.id_diff WHERE user_details_tbl.id_diff = '" . $tin . "'";

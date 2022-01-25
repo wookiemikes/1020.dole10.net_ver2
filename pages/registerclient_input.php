@@ -1,6 +1,7 @@
 <?php
 include "../db/server.php";
-$mysqli = new mysqli('localhost', 'd0l310_1020db', 'd0l310_1020db', 'd0l310_1020db');
+//$mysqli = new mysqli('localhost', 'd0l310_1020db', 'd0l310_1020db', 'd0l310_1020db');
+$mysqli = new mysqli('localhost', 'root', '', 'd0l310_1020db');
 if (isset($_POST['register'])) {
     $id_diff = $_POST['id_diff'];
     $ud_est_name = mysqli_real_escape_string($mysqli,$_POST['ud_est_name']);

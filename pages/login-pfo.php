@@ -11,14 +11,14 @@
     <title>DOLE 1020 | LOGIN</title>
 
     <!-- Theme icon -->
-    <link rel="shortcut icon" href="../../assets/images/doleico.ico">
+    <link rel="shortcut icon" href="../assets/images/doleico.ico">
 
     <!-- Theme Css -->
-    <link href="../../assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../assets/css/slidebars.min.css" rel="stylesheet">
-    <link href="../../assets/css/icons.css" rel="stylesheet">
-    <link href="../../assets/css/menu.css" rel="stylesheet" type="text/css">
-    <link href="../../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/css/slidebars.min.css" rel="stylesheet">
+    <link href="../assets/css/icons.css" rel="stylesheet">
+    <link href="../assets/css/menu.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/style.css" rel="stylesheet">
 </head>
 
 <body class="sticky-header">
@@ -32,7 +32,7 @@
                                 <div class="card m-b-30">
                                     <div class="card-body">
                                         <div class="card-title text-center">
-                                            <img src="../../assets/images/1020.gif" alt="" class="" width="70" height="70">
+                                            <img src="../assets/images/1020.gif" alt="" class="" width="70" height="70">
                                             <h5 class="mt-3"><b>Welcome to 1020 PFO Admin</b></h5>
                                         </div>
                                         <form class="form mt-5 contact-form" action="../pages/login-pfo-bck" method="POST">
@@ -82,13 +82,13 @@
     </section>
 
     <!-- jQuery -->
-    <script src="../../assets/js/jquery-3.2.1.min.js"></script>
-    <script src="../../assets/js/popper.min.js"></script>
-    <script src="../../assets/js/bootstrap.min.js"></script>
-    <script src="../../assets/js/jquery-migrate.js"></script>
-    <script src="../../assets/js/modernizr.min.js"></script>
-    <script src="../../assets/js/jquery.slimscroll.min.js"></script>
-    <script src="../../assets/js/slidebars.min.js"></script>
+    <script src="../assets/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/js/popper.min.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/jquery-migrate.js"></script>
+    <script src="../assets/js/modernizr.min.js"></script>
+    <script src="../assets/js/jquery.slimscroll.min.js"></script>
+    <script src="../assets/js/slidebars.min.js"></script>
 
 
     <!--app js-->

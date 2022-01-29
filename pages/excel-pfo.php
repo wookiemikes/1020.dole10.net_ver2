@@ -1,8 +1,12 @@
 <?php
 session_start();
-require_once "../Classes/PHPExcel.php";
+
+require '../phpspreadsheet/vendor/autoload.php';
+
+use PhpOffice\PhpSpreadsheet\Spreadsheet;
+use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 include '../db/server.php';
-$export = new PHPExcel();
+$export = new Spreadsheet();
 $ud_prov1 = $_POST['ud_prov1'];
 $date_app = $_POST['date_app'];
 $date_app1 = $_POST['date_app1']; 
@@ -87,9 +91,9 @@ $export->getActiveSheet()->getStyle('A1')->getAlignment()->setHorizontal('center
 $export->getActiveSheet()->getStyle('A2:T2')->getAlignment()->setHorizontal('center');
 
 $export->getActiveSheet()->getStyle('A1')->getFill()
-    ->setFillType(PHPExcel_Style_Fill::FILL_GRADIENT_LINEAR)
-    ->setStartColor(new PHPExcel_Style_Color(PHPExcel_Style_Color::COLOR_BLUE))
-    ->setEndColor(new PHPExcel_Style_Color(PHPExcel_Style_Color::COLOR_WHITE))
+    ->setFillType(PhpOffice\PhpSpreadsheet\Style\Fill::FILL_GRADIENT_LINEAR)
+    ->setStartColor(new PhpOffice\PhpSpreadsheet\Style\Color(PhpOffice\PhpSpreadsheet\Style\Color::COLOR_BLUE))
+    ->setEndColor(new PhpOffice\PhpSpreadsheet\Style\Color(PhpOffice\PhpSpreadsheet\Style\Color::COLOR_WHITE))
     ->setRotation(45);
 $export->getActiveSheet()->getStyle('A1')->applyFromArray(
     array(
@@ -106,7 +110,7 @@ $export->getActiveSheet()->getStyle('A2:U2')->applyFromArray(
         ),
         'borders' => array(
             'allborders' => array(
-                'style' => PHPExcel_Style_Border::BORDER_THIN
+                'style' => PhpOffice\PhpSpreadsheet\Style\Border::BORDER_THIN
             )
         )
     )
@@ -115,10 +119,10 @@ $export->getActiveSheet()->getStyle('A3:T' . ($row - 1))->applyFromArray(
     array(
         'borders' => array(
             'outline' => array(
-                'style' => PHPExcel_Style_Border::BORDER_THIN
+                'style' => PhpOffice\PhpSpreadsheet\Style\Border::BORDER_THIN
             ),
             'vertical' => array(
-                'style' => PHPExcel_Style_Border::BORDER_THIN
+                'style' => PhpOffice\PhpSpreadsheet\Style\Border::BORDER_THIN
             )
         )
     )
@@ -126,5 +130,5 @@ $export->getActiveSheet()->getStyle('A3:T' . ($row - 1))->applyFromArray(
 header('Content-Type: application/vnd.openxmlformats-officedocumnets.spreadsheetml.sheet');
 header('Content-Disposition: attachment; filename="LIST OF REGISTERED ESTABLISHMENTS - PFO.xlsx"');
 header('Content-Control: max-age=0');
-$file = PHPExcel_IOFactory::createWriter($export, 'Excel2007');
+$file = PhpOffice\PhpSpreadsheet\IOFactory::createWriter($export, 'Xlsx');
 $file->save('php://output');

@@ -432,6 +432,10 @@ include '../pages/logout.php';
                                              <tr>
                                                 <td colspan="2"><button class="btn btn-block btn-sm btn-success" data-toggle="modal" data-target="#approve"><i class="mdi mdi-check-circle mr-2"></i><b>APPROVE APPLICATION</b></button></td>
                                             </tr>
+
+                                            <tr>
+                                                <td colspan="2"><button class="btn btn-block btn-sm btn-danger" data-toggle="modal" data-target="#denied"><i class="mdi mdi-check-circle mr-2"></i><b>DENY APPLICATION</b></button></td>
+                                            </tr>
                                             <tr>
                                                 <td colspan="2"><button class="btn btn-block btn-sm btn-warning" data-toggle="modal" data-target="#deny"><i class="mdi mdi-alert-circle mr-2"></i><b>SEND REMARKS</b></button></td>
                                             </tr>
@@ -526,7 +530,7 @@ include '../pages/logout.php';
                             <input type="hidden" class="form-control" placeholder="update EIN" name="subjectName" value="NOTICE : RULE 1020-REGISTRATION OF ESTABLISHMENT APPLICATION" readonly>
                             <br>
                             <div class="form-group">
-                                <label for="exampleFormControlTextarea1"><b>State Remarks:</b></label>
+                                <label for="exampleFormControlTextarea1"><b>State reason:</b></label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="remarks1" placeholder="State Here"></textarea>
                             </div>
                         </div>
@@ -536,6 +540,42 @@ include '../pages/logout.php';
                             <input type="hidden" name="pud_tin" value="<?php echo $_SESSION['id_diff']; ?>">
 
                             <button type="submit" class="btn btn-success" name="sendPendingBtnPfo"><i class="mdi mdi-check-circle mr-2"></i><b>SEND EMAIL</b></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!---->
+        <!--Modal-->
+        <div class="modal fade" id="denied" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLongTitle"><b>Send Remarks</b></h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <form action="../pages/dashboardview-back-b.php" method="post">
+                        <div class="modal-body">
+                            <input type="hidden" class="form-control" placeholder="update EIN" name="emailFrom" value="dole10.1020email@gmail.com" readonly>
+                            <br>
+                            <b>Receiver Email:</b>
+                            <input type="text" class="form-control" placeholder="update EIN" name="emailTo" value="<?php echo $_SESSION["ud_email"] ?>" readonly>
+                            <br>
+                            <input type="hidden" class="form-control" placeholder="update EIN" name="subjectName" value="NOTICE : RULE 1020-REGISTRATION OF ESTABLISHMENT APPLICATION" readonly>
+                            <br>
+                            <div class="form-group">
+                                <label for="exampleFormControlTextarea1"><b>State Remarks:</b></label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="remarks1" placeholder="State Here"></textarea>
+                            </div>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                            <input type="hidden" name="pud_tin" value="<?php echo $_SESSION['id_diff']; ?>">
+
+                            <button type="submit" class="btn btn-success" name="sendDenyBtnPfo"><i class="mdi mdi-check-circle mr-2"></i><b>SEND EMAIL</b></button>
                         </div>
                     </form>
                 </div>

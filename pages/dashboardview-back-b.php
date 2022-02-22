@@ -1,7 +1,7 @@
 <?php
 include 'server_email.php';
 if (isset($_POST['sendApproveBtnPfo'])) {
-    $remarks1 = $_POST['remarks1'];
+    $remarks1 = mysqli_real_escape_string($connect, $_POST['remarks1']);
     $emailFrom = $_POST['emailFrom'];
     $emailTo = $_POST['emailTo'];
     $subjectName = $_POST['subjectName'];
@@ -98,7 +98,7 @@ if (isset($_POST['sendApproveBtnPfo'])) {
 //PENDING
 
 if (isset($_POST['sendPendingBtnPfo'])) {
-    $remarks1 = $_POST['remarks1'];
+    $remarks1 = mysqli_real_escape_string($connect, $_POST['remarks1']);
     $emailFrom = $_POST['emailFrom'];
     $emailTo = $_POST['emailTo'];
     $subjectName = $_POST['subjectName'];
@@ -190,7 +190,7 @@ if (isset($_POST['sendPendingBtnPfo'])) {
 //DENIED
 
 if (isset($_POST['sendDenyBtnPfo'])) {
-    $remarks1 = $_POST['remarks1'];
+    $remarks1 = mysqli_real_escape_string($connect, $_POST['remarks1']);
     $emailFrom = $_POST['emailFrom'];
     $emailTo = $_POST['emailTo'];
     $subjectName = $_POST['subjectName'];

@@ -6,8 +6,6 @@ if ($_SESSION["oat_uname"] == "" && $_SESSION["oat_pwd"] == "") {
     header("Location: ../pages/login-pfo.php");
     exit;
 }
-
-
 include '../pages/logout.php';
 
 
@@ -55,8 +53,8 @@ include '../pages/logout.php';
                         <img src="../assets/images/users/avatar.jpg" alt="" class="img-fluid rounded-circle">
                     </div>
                     <div class="text-center text-white mt-2">
-                        <h6>DOLE - <?php echo $_SESSION['oat_office_desc']; ?></h6>
-                        <p class="text-muted m-0">Provincial Field Office</p>
+                        <h6>DOLE <?php echo $_SESSION['oat_office_desc']; ?></h6>
+                        <p class="text-muted m-0">PFO Admin</p>
                     </div>
                 </div>
 
@@ -67,14 +65,14 @@ include '../pages/logout.php';
                     </li>
                     <li class="menu-list">
                         <a href="../pages/dashboard"><i class="mdi mdi-gauge"></i> <span>Dashboard</span></a>
+
                         <ul class="child-list">
-                            <li class="active"><a href="../pages/dashboard-pfo.php"><i class="mdi mdi-clipboard-alert"></i> Pending Applicants</a></li>
-                            <li><a href="../pages/dash-approved-pfo.php"><i class="mdi mdi-clipboard-check"></i> Approved Applicants</a></li>
-                            <li><a href="../pages/dash-denied-pfo.php"><i class="mdi mdi-clipboard-check"></i> Denied Applicants</a></li>
+                            <li><a href="../pages/dashboard-pfo.php"><i class="mdi mdi-clipboard-alert"></i> Pending Applicants</a></li>
+                            <li class="active"><a href="../pages/dash-approved-pfo.php"><i class="mdi mdi-clipboard-check"></i> Approved Applicants</a></li>
                         </ul>
                     </li>
                     <li class="">
-                        <a href="#" disabled><i class="mdi mdi-chart-areaspline"></i> <span>Reports</span></a>
+                        <a href="#" disabled><i class="mdi mdi-chart-areaspline"></i> <span>Reports (coming soon)</span></a>
                     </li>
                     <li>
                         <h3 class="navigation-title">Auxilliaries</h3>
@@ -122,7 +120,6 @@ include '../pages/logout.php';
                                     <a class="dropdown-item" href="#"><span class="badge badge-success pull-right">5</span><i class="mdi mdi-settings m-r-5 text-muted"></i> Settings</a>
                                     <a class="dropdown-item" href="#"><i class="mdi mdi-lock-open-outline m-r-5 text-muted"></i> Lock screen</a>
                                     <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal"><i class="mdi mdi-logout m-r-5 text-muted"></i> Logout</a>
-                                </div>
 
                             </li>
                         </ul>
@@ -134,28 +131,62 @@ include '../pages/logout.php';
 
             <div class="container-fluid">
                 <div class="page-head">
-                    <h4 class="mt-2 mb-2">Dashboard</h4>
+                    <h4 class="mt-2 mb-2">Dashboard
+                        <button type="button" class="btn float-right btn-md   btn-success" data-toggle="modal" data-target="#exampleModalCenter"><i class="mdi mdi-file-excel mr-1"> </i><b>GENERATE EXCEL FILE</b></button>
+
+                    </h4>
+                </div>
+
+                <!--modal-->
+
+                <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLongTitle">GENERATE EXCEL FILE</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <form action="../pages/excel-pfo.php" method="post">
+                                <div class="modal-body">
+                                    <input type="hidden" name="ud_prov1" value="<?php echo $_SESSION['oat_office_desc']; ?>">
+                                    <label for="">Generate date From and To Date:</label>
+                                    <br>
+                                    <label for="dates"><b>From :</b></label>
+                                    <input class="form-control" type="date" name="date_app" id="dates">
+                                    <br>
+                                    <label for="dates"><b>To :</b></label>
+                                    <input class="form-control" type="date" name="date_app1" id="dates">
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="submit" class="btn btn-primary">Save changes</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
                 </div>
 
                 <!--end row-->
                 <div class="row">
+
                     <div class="col-lg-12 col-sm-12">
                         <div class="card m-b-30">
                             <div class="card-header bg-primary text-white">
-                                <h5 class="header-title"> PENDING APPLICANTS</h5>
+                                <h5 class="header-title"> APPROVED APPLICANTS</h5>
                             </div>
                             <div class="card-body table-responsive">
 
 
                                 <div class="table-odd">
-                                    <table id="pendingpfoTbl" class="table table-bordered">
+                                    <table id="approvedpfoTbl" class="table table-bordered">
                                         <thead class="">
                                             <tr>
-                                                <th>ID</th>
+                                                <th>EIN</th>
                                                 <th>ESTABLISHMENT NAME</th>
                                                 <th>EMAIL ADDRESS</th>
-                                                <th>CONTACT NUMBER</th>
-                                                <th>DATE APPLIED</th>
+                                                <th>DATE APPROVED</th>
                                                 <th>STATUS</th>
                                                 <th>ACTION (?)</th>
 
@@ -163,11 +194,10 @@ include '../pages/logout.php';
                                         </thead>
                                         <tfoot>
                                             <tr>
-                                                <th>ID</th>
+                                                <th>EIN</th>
                                                 <th>ESTABLISHMENT NAME</th>
                                                 <th>EMAIL ADDRESS</th>
-                                                <th>CONTACT NUMBER</th>
-                                                <th>DATE APPLIED</th>
+                                                <th>DATE APPROVED</th>
                                                 <th>STATUS</th>
                                                 <th>ACTION (?)</th>
 
@@ -182,8 +212,6 @@ include '../pages/logout.php';
                             </div>
                         </div>
                     </div>
-
-
 
 
 
@@ -483,7 +511,6 @@ include '../pages/logout.php';
         </div>
         <!--end body content-->
     </section>
-
     <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -512,7 +539,7 @@ include '../pages/logout.php';
 
 
             function fetch_data1() {
-                var dataTable = $('#pendingpfoTbl').DataTable({
+                var dataTable = $('#approvedpfoTbl').DataTable({
                     "processing": true,
                     "serverSide": true,
                     "columnDefs": [{
@@ -521,7 +548,7 @@ include '../pages/logout.php';
                     }],
                     "order": [],
                     "ajax": {
-                        url: "../pages/dashboard-pfo-fetch.php",
+                        url: "../pages/dash-denied-pfo-fetch.php",
                         type: "POST"
                     }
                 });
